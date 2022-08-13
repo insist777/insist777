@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-**insist777/insist777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insist777)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insist777&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
